@@ -26,7 +26,7 @@ using namespace cv;
 
 int OTSU(Mat srcImage);
 
-int main()
+int main0()
 {
 	// Í¼Ïñ¶ÁÈ¡¼°ÅÐ¶Ï
 	cv::Mat srcImage = cv::imread("..\\..\\sample\\2121.jpg");

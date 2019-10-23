@@ -18,10 +18,7 @@
     <Text Include="ReadMe.txt" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\src\ImageThresholding\ImageThresholding.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\src\ImageThresholding\ImageFilter.cpp">
+    <ClCompile Include="..\..\src\BaseImgProcess\BaseImgProcess.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
