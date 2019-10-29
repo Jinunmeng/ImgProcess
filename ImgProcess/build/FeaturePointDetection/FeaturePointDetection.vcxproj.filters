@@ -21,5 +21,8 @@
     <ClCompile Include="..\..\src\FeaturePointDetection\FeaturePointDetection.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="hough_transform.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
